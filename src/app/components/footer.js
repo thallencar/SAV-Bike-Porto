@@ -77,41 +77,41 @@ const Footer = () => {
         <MemberImage src="images/github.png" alt="GitHub Image" />
         <MemberLink href="https://www.linkedin.com/in/bruno-ciccio/">https://www.linkedin.com/in/bruno-ciccio/</MemberLink>
       </MemberContainer>
-      <Subtitle>Marina Cucco</Subtitle>
-      <MemberContainer>
-        <MemberImage src="images/linkedin.png" alt="LinkedIn Image" />
-        <MemberLink href="">https://github.com/brunociccio</MemberLink>
-      </MemberContainer>
-      <MemberContainer>
-        <MemberImage src="images/github.png" alt="GitHub Image" />
-        <MemberLink href="">https://www.linkedin.com/in/bruno-ciccio/</MemberLink>
-      </MemberContainer>
       <Subtitle>José Duarte</Subtitle>
       <MemberContainer>
         <MemberImage src="images/linkedin.png" alt="LinkedIn Image" />
-        <MemberLink href="">https://github.com/brunociccio</MemberLink>
+        <MemberLink href="">https://github.com/JoseDuarte-arq</MemberLink>
       </MemberContainer>
       <MemberContainer>
         <MemberImage src="images/github.png" alt="GitHub Image" />
-        <MemberLink href="">https://www.linkedin.com/in/bruno-ciccio/</MemberLink>
+        <MemberLink href="">https://www.linkedin.com/in/joseduarte-dev/</MemberLink>
       </MemberContainer>
       <Subtitle>Isabelle Corsi</Subtitle>
       <MemberContainer>
         <MemberImage src="images/linkedin.png" alt="LinkedIn Image" />
-        <MemberLink href="">https://github.com/brunociccio</MemberLink>
+        <MemberLink href="">https://github.com/CorsiIsa</MemberLink>
       </MemberContainer>
       <MemberContainer>
         <MemberImage src="images/github.png" alt="GitHub Image" />
-        <MemberLink href="">https://www.linkedin.com/in/bruno-ciccio/</MemberLink>
+        <MemberLink href="">https://www.linkedin.com/in/isabelle-corsi-938281267/</MemberLink>
+      </MemberContainer>
+      <Subtitle>Marina Cucco</Subtitle>
+      <MemberContainer>
+        <MemberImage src="images/linkedin.png" alt="LinkedIn Image" />
+        <MemberLink href="">https://github.com/marina-cucco</MemberLink>
+      </MemberContainer>
+      <MemberContainer>
+        <MemberImage src="images/github.png" alt="GitHub Image" />
+        <MemberLink href="">https://www.linkedin.com/in/marina-cucco-01798a25b/</MemberLink>
       </MemberContainer>
       <Subtitle>Thalita de Alencar</Subtitle>
       <MemberContainer>
         <MemberImage src="images/linkedin.png" alt="LinkedIn Image" />
-        <MemberLink href="">https://github.com/brunociccio</MemberLink>
+        <MemberLink href="">https://github.com/thallencar</MemberLink>
       </MemberContainer>
       <MemberContainer>
         <MemberImage src="images/github.png" alt="GitHub Image" />
-        <MemberLink href="">https://www.linkedin.com/in/bruno-ciccio/</MemberLink>
+        <MemberLink href="">https://www.linkedin.com/in/thalita-alencar/</MemberLink>
       </MemberContainer>
       <Divider />
       <div style={{ display: 'flex', alignItems: 'center' }}>
